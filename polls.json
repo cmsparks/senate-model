@@ -1,24 +1,132 @@
 [
   {
+    "id": "86881",
+    "subgroup": "All polls",
+    "sampleSize": "153",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-me02-1.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-12",
+    "endDate": "2018-09-12",
+    "pollster": "Siena College",
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Poliquin",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "86883",
+    "subgroup": "All polls",
+    "sampleSize": "153",
+    "population": "rv",
+    "grade": "A",
+    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-me02-1.html",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-12",
+    "endDate": "2018-09-12",
+    "pollster": "Siena College",
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Poliquin",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "86882",
+    "subgroup": "All polls",
+    "sampleSize": "387",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-co06-1.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-12",
+    "endDate": "2018-09-12",
+    "pollster": "Siena College",
+    "answers": [
+      {
+        "choice": "Crow",
+        "pct": "51.03",
+        "party": "Dem"
+      },
+      {
+        "choice": "Coffman",
+        "pct": "40.32",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "Colorado",
+    "district": "6"
+  },
+  {
+    "id": "86884",
+    "subgroup": "All polls",
+    "sampleSize": "387",
+    "population": "rv",
+    "grade": "A",
+    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-co06-1.html",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-12",
+    "endDate": "2018-09-12",
+    "pollster": "Siena College",
+    "answers": [
+      {
+        "choice": "Crow",
+        "pct": "53.74",
+        "party": "Dem"
+      },
+      {
+        "choice": "Coffman",
+        "pct": "37.17",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "Colorado",
+    "district": "6"
+  },
+  {
     "id": "86827",
     "subgroup": "All polls",
-    "sampleSize": "206",
+    "sampleSize": "422",
     "population": "lv",
     "grade": "A",
     "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-wi01-1.html",
     "created_at": "2018-09-12",
     "startDate": "2018-09-11",
-    "endDate": "2018-09-11",
+    "endDate": "2018-09-12",
     "pollster": "Siena College",
     "answers": [
       {
         "choice": "Bryce",
-        "pct": "47.0",
+        "pct": "45.57",
         "party": "Dem"
       },
       {
         "choice": "Steil",
-        "pct": "45.0",
+        "pct": "48.1",
         "party": "Rep"
       }
     ],
@@ -29,29 +137,83 @@
   {
     "id": "86828",
     "subgroup": "All polls",
-    "sampleSize": "206",
+    "sampleSize": "422",
     "population": "rv",
     "grade": "A",
     "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-wi01-1.html",
     "created_at": "2018-09-12",
     "startDate": "2018-09-11",
-    "endDate": "2018-09-11",
+    "endDate": "2018-09-12",
     "pollster": "Siena College",
     "answers": [
       {
         "choice": "Bryce",
-        "pct": "48.31",
+        "pct": "43.96",
         "party": "Dem"
       },
       {
         "choice": "Steil",
-        "pct": "42.52",
+        "pct": "49.12",
         "party": "Rep"
       }
     ],
     "type": "house",
     "state": "Wisconsin",
     "district": "1"
+  },
+  {
+    "id": "86753",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-va07-1.html",
+    "created_at": "2018-09-10",
+    "startDate": "2018-09-09",
+    "endDate": "2018-09-12",
+    "pollster": "Siena College",
+    "answers": [
+      {
+        "choice": "Spanberger",
+        "pct": "43.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Brat",
+        "pct": "47.22",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "Virginia",
+    "district": "7"
+  },
+  {
+    "id": "86775",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "rv",
+    "grade": "A",
+    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-va07-1.html",
+    "created_at": "2018-09-11",
+    "startDate": "2018-09-09",
+    "endDate": "2018-09-12",
+    "pollster": "Siena College",
+    "answers": [
+      {
+        "choice": "Spanberger",
+        "pct": "38.84",
+        "party": "Dem"
+      },
+      {
+        "choice": "Brat",
+        "pct": "45.71",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "Virginia",
+    "district": "7"
   },
   {
     "id": "86757",
@@ -108,58 +270,58 @@
     "district": "23"
   },
   {
-    "id": "86753",
+    "id": "86879",
     "subgroup": "All polls",
-    "sampleSize": "457",
+    "sampleSize": "701",
     "population": "lv",
     "grade": "A",
-    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-va07-1.html",
-    "created_at": "2018-09-10",
-    "startDate": "2018-09-09",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-republican-challenger-ahead-in-north-dakota-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
     "endDate": "2018-09-11",
-    "pollster": "Siena College",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
     "answers": [
       {
-        "choice": "Spanberger",
-        "pct": "44.0",
+        "choice": "Schneider",
+        "pct": "34.0",
         "party": "Dem"
       },
       {
-        "choice": "Brat",
+        "choice": "Armstrong",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "state": "North Dakota",
+    "district": "1"
+  },
+  {
+    "id": "86880",
+    "subgroup": "All polls",
+    "sampleSize": "804",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-republican-challenger-ahead-in-north-dakota-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Schneider",
+        "pct": "32.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Armstrong",
         "pct": "47.0",
         "party": "Rep"
       }
     ],
     "type": "house",
-    "state": "Virginia",
-    "district": "7"
-  },
-  {
-    "id": "86775",
-    "subgroup": "All polls",
-    "sampleSize": "457",
-    "population": "rv",
-    "grade": "A",
-    "url": "https://www.nytimes.com/interactive/2018/upshot/elections-poll-va07-1.html",
-    "created_at": "2018-09-11",
-    "startDate": "2018-09-09",
-    "endDate": "2018-09-11",
-    "pollster": "Siena College",
-    "answers": [
-      {
-        "choice": "Spanberger",
-        "pct": "38.51",
-        "party": "Dem"
-      },
-      {
-        "choice": "Brat",
-        "pct": "46.41",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "state": "Virginia",
-    "district": "7"
+    "state": "North Dakota",
+    "district": "1"
   },
   {
     "id": "86712",
@@ -420,6 +582,102 @@
     "district": "8"
   },
   {
+    "id": "86890",
+    "subgroup": "All polls",
+    "sampleSize": "401",
+    "population": "v",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_091318/",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-05",
+    "endDate": "2018-09-09",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Wild",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Nothstein",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Silfies",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "state": "Pennsylvania",
+    "district": "7"
+  },
+  {
+    "id": "86891",
+    "subgroup": "All polls",
+    "sampleSize": "299",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_091318/",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-05",
+    "endDate": "2018-09-09",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Wild",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Nothstein",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Silfies",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "state": "Pennsylvania",
+    "district": "7"
+  },
+  {
+    "id": "86892",
+    "subgroup": "All polls",
+    "sampleSize": "299",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_091318/",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-05",
+    "endDate": "2018-09-09",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Wild",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Nothstein",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Silfies",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "state": "Pennsylvania",
+    "district": "7"
+  },
+  {
     "id": "86699",
     "subgroup": "All polls",
     "sampleSize": "506",
@@ -640,6 +898,34 @@
     "type": "house",
     "state": "North Carolina",
     "district": "2"
+  },
+  {
+    "id": "86876",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.kristencarlsonforcongress.com/news/press-release-kristen-carlson-leads-rep.-ross-spano-in-first-general-election-polling",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-04",
+    "endDate": "2018-09-08",
+    "pollster": "Greenberg Quinlan Rosner (Democracy Corps)",
+    "answers": [
+      {
+        "choice": "Carlson",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Spano",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "15"
   },
   {
     "id": "86749",
@@ -986,6 +1272,34 @@
     "type": "house",
     "state": "Illinois",
     "district": "6"
+  },
+  {
+    "id": "86889",
+    "subgroup": "All polls",
+    "sampleSize": "1182",
+    "population": "lv",
+    "grade": "",
+    "url": "http://www.steverussellforcongress.com/assets/VCreekAMG_Sept2018-General-Benchmark-Russell-Poll.pdf",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-04",
+    "endDate": "2018-09-06",
+    "pollster": "VCreek/AMG",
+    "answers": [
+      {
+        "choice": "Horn",
+        "pct": "35.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Russell",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "partisan": "REP",
+    "state": "Oklahoma",
+    "district": "5"
   },
   {
     "id": "86698",
@@ -6063,9 +6377,387 @@
     "district": "25"
   },
   {
+    "id": "86899",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/elections/election_2018/florida/election_2018_florida_senate",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-10",
+    "endDate": "2018-09-11",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Nelson",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Scott",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Florida"
+  },
+  {
+    "id": "86866",
+    "subgroup": "All polls",
+    "sampleSize": "710",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-women-gop-crossovers-help-democrat-in-arizona-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Sinema",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Arizona"
+  },
+  {
+    "id": "86867",
+    "subgroup": "All polls",
+    "sampleSize": "801",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-women-gop-crossovers-help-democrat-in-arizona-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Sinema",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Arizona"
+  },
+  {
+    "id": "86868",
+    "subgroup": "All polls",
+    "sampleSize": "686",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-blackburn-up-by-three-points-in-tennessee-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Bredesen",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Blackburn",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Tennessee"
+  },
+  {
+    "id": "86869",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-blackburn-up-by-three-points-in-tennessee-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Bredesen",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Blackburn",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Tennessee"
+  },
+  {
+    "id": "86870",
+    "subgroup": "All polls",
+    "sampleSize": "701",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-republican-challenger-ahead-in-north-dakota-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Heitkamp",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cramer",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "North Dakota"
+  },
+  {
+    "id": "86871",
+    "subgroup": "All polls",
+    "sampleSize": "804",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-republican-challenger-ahead-in-north-dakota-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Heitkamp",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cramer",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "North Dakota"
+  },
+  {
+    "id": "86872",
+    "subgroup": "All polls",
+    "sampleSize": "677",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-republican-ahead-incumbent-democrat-in-indiana-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Donnelly",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Braun",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Brenton",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "state": "Indiana"
+  },
+  {
+    "id": "86873",
+    "subgroup": "All polls",
+    "sampleSize": "804",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-republican-ahead-incumbent-democrat-in-indiana-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Donnelly",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Braun",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Brenton",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "state": "Indiana"
+  },
+  {
+    "id": "86874",
+    "subgroup": "All polls",
+    "sampleSize": "675",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-mccaskill-up-in-missouri-senate-race-by-whisker.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "McCaskill",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hawley",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Missouri"
+  },
+  {
+    "id": "86875",
+    "subgroup": "All polls",
+    "sampleSize": "808",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-mccaskill-up-in-missouri-senate-race-by-whisker.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "McCaskill",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hawley",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Missouri"
+  },
+  {
+    "id": "86877",
+    "subgroup": "All polls",
+    "sampleSize": "675",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-mccaskill-up-in-missouri-senate-race-by-whisker.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "McCaskill",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hawley",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Crain",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Campbell",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "O'Dear",
+        "pct": "3.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "state": "Missouri"
+  },
+  {
+    "id": "86878",
+    "subgroup": "All polls",
+    "sampleSize": "808",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-mccaskill-up-in-missouri-senate-race-by-whisker.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "McCaskill",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hawley",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Crain",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Campbell",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "O'Dear",
+        "pct": "4.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "state": "Missouri"
+  },
+  {
     "id": "86830",
     "subgroup": "All polls",
-    "sampleSize": "1603",
+    "sampleSize": "1592",
     "population": "rv",
     "grade": "B-",
     "url": "https://www.politico.com/f/?id=00000165-cb2f-db94-ab7f-cfff8b740000",
@@ -6076,7 +6768,7 @@
     "answers": [
       {
         "choice": "Brown",
-        "pct": "48.0",
+        "pct": "47.0",
         "party": "Dem"
       },
       {
@@ -6202,6 +6894,89 @@
         "choice": "Cruz",
         "pct": "47.0",
         "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Texas"
+  },
+  {
+    "id": "86887",
+    "subgroup": "All polls",
+    "sampleSize": "574",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=e64b8af8-387b-4f2c-adae-f986be751d01",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-08",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Klobuchar",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Newberger",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Minnesota"
+  },
+  {
+    "id": "86888",
+    "subgroup": "All polls",
+    "sampleSize": "574",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=e64b8af8-387b-4f2c-adae-f986be751d01",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-08",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Housley",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Minnesota"
+  },
+  {
+    "id": "86858",
+    "subgroup": "All polls",
+    "sampleSize": "519",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://dfw.cbslocal.com/2018/09/12/cruz-clings-to-small-lead-in-texas/",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-07",
+    "pollster": "Dixie Strategies",
+    "answers": [
+      {
+        "choice": "O'Rourke",
+        "pct": "41.74",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cruz",
+        "pct": "45.87",
+        "party": "Rep"
+      },
+      {
+        "choice": "Dikeman",
+        "pct": "1.28",
+        "party": "Lib"
       }
     ],
     "type": "senate",
@@ -8664,32 +9439,6 @@
     "type": "senate",
     "partisan": "DEM",
     "state": "Tennessee"
-  },
-  {
-    "id": "86135",
-    "subgroup": "All polls",
-    "sampleSize": "500",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.scribd.com/document/353764204/MO-Sen-Fabrizo-Lee-for-the-Club-for-Growth-July-2017",
-    "created_at": "2018-08-21",
-    "startDate": "2018-07-10",
-    "endDate": "2018-07-11",
-    "pollster": "Fabrizio, Lee & Associates",
-    "answers": [
-      {
-        "choice": "McCaskill",
-        "pct": "42.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Hawley",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "state": "Missouri"
   },
   {
     "id": "85666",
@@ -11321,37 +12070,6 @@
     "state": "West Virginia"
   },
   {
-    "id": "83170",
-    "subgroup": "All polls",
-    "sampleSize": "653",
-    "population": "v",
-    "grade": "A+",
-    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_wv_062018.pdf/",
-    "created_at": "2018-06-19",
-    "startDate": "2018-06-14",
-    "endDate": "2018-06-19",
-    "pollster": "Monmouth University",
-    "answers": [
-      {
-        "choice": "Manchin",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Morrisey",
-        "pct": "39.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Blankenship",
-        "pct": "4.0",
-        "party": "Ind"
-      }
-    ],
-    "type": "senate",
-    "state": "West Virginia"
-  },
-  {
     "id": "83171",
     "subgroup": "All polls",
     "sampleSize": "527",
@@ -11378,37 +12096,6 @@
     "state": "West Virginia"
   },
   {
-    "id": "83172",
-    "subgroup": "All polls",
-    "sampleSize": "527",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_wv_062018.pdf/",
-    "created_at": "2018-06-19",
-    "startDate": "2018-06-14",
-    "endDate": "2018-06-19",
-    "pollster": "Monmouth University",
-    "answers": [
-      {
-        "choice": "Manchin",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Morrisey",
-        "pct": "39.5",
-        "party": "Rep"
-      },
-      {
-        "choice": "Blankenship",
-        "pct": "5.0",
-        "party": "Ind"
-      }
-    ],
-    "type": "senate",
-    "state": "West Virginia"
-  },
-  {
     "id": "84520",
     "subgroup": "All polls",
     "sampleSize": "527",
@@ -11429,37 +12116,6 @@
         "choice": "Morrisey",
         "pct": "42.0",
         "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "state": "West Virginia"
-  },
-  {
-    "id": "84521",
-    "subgroup": "All polls",
-    "sampleSize": "527",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_wv_062018.pdf/",
-    "created_at": "2018-06-19",
-    "startDate": "2018-06-14",
-    "endDate": "2018-06-19",
-    "pollster": "Monmouth University",
-    "answers": [
-      {
-        "choice": "Manchin",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Morrisey",
-        "pct": "39.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Blankenship",
-        "pct": "5.0",
-        "party": "Ind"
       }
     ],
     "type": "senate",
@@ -11651,37 +12307,6 @@
     ],
     "type": "senate",
     "state": "Florida"
-  },
-  {
-    "id": "83337",
-    "subgroup": "All polls",
-    "sampleSize": "633",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://www.scribd.com/document/382769305/BJO-WV-Poll-Results-June2018",
-    "created_at": "2018-06-13",
-    "startDate": "2018-06-12",
-    "endDate": "2018-06-13",
-    "pollster": "Public Policy Polling",
-    "answers": [
-      {
-        "choice": "Manchin",
-        "pct": "46.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Morrisey",
-        "pct": "35.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Blankenship",
-        "pct": "11.0",
-        "party": "Ind"
-      }
-    ],
-    "type": "senate",
-    "state": "West Virginia"
   },
   {
     "id": "83338",
@@ -12179,37 +12804,6 @@
         "choice": "Morrisey",
         "pct": "40.0",
         "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "state": "West Virginia"
-  },
-  {
-    "id": "83174",
-    "subgroup": "All polls",
-    "sampleSize": "543",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.breitbart.com/big-government/2018/05/25/poll-manchin-leads-morrisey-by-13-in-west-virginia-senate-race/",
-    "created_at": "2018-05-22",
-    "startDate": "2018-05-22",
-    "endDate": "2018-05-22",
-    "pollster": "Gravis Marketing",
-    "answers": [
-      {
-        "choice": "Manchin",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Morrisey",
-        "pct": "39.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Blankenship",
-        "pct": "5.0",
-        "party": "Ind"
       }
     ],
     "type": "senate",
@@ -14723,6 +15317,32 @@
     "state": "Missouri"
   },
   {
+    "id": "86135",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.scribd.com/document/353764204/MO-Sen-Fabrizo-Lee-for-the-Club-for-Growth-July-2017",
+    "created_at": "2018-08-21",
+    "startDate": "2017-07-10",
+    "endDate": "2017-07-11",
+    "pollster": "Fabrizio, Lee & Associates",
+    "answers": [
+      {
+        "choice": "McCaskill",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hawley",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "state": "Missouri"
+  },
+  {
     "id": "85942",
     "subgroup": "All polls",
     "sampleSize": "928",
@@ -14853,9 +15473,113 @@
     "state": "West Virginia"
   },
   {
+    "id": "86862",
+    "subgroup": "All polls",
+    "sampleSize": "710",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-women-gop-crossovers-help-democrat-in-arizona-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Garcia",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ducey",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "state": "Arizona"
+  },
+  {
+    "id": "86863",
+    "subgroup": "All polls",
+    "sampleSize": "801",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-women-gop-crossovers-help-democrat-in-arizona-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Garcia",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ducey",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "state": "Arizona"
+  },
+  {
+    "id": "86864",
+    "subgroup": "All polls",
+    "sampleSize": "686",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-blackburn-up-by-three-points-in-tennessee-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Dean",
+        "pct": "35.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lee",
+        "pct": "55.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "state": "Tennessee"
+  },
+  {
+    "id": "86865",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "rv",
+    "grade": "A",
+    "url": "http://www.foxnews.com/politics/2018/09/12/fox-news-poll-blackburn-up-by-three-points-in-tennessee-senate-race.html",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-08",
+    "endDate": "2018-09-11",
+    "pollster": "Fox News/Anderson Robbins Research/Shaw & Co. Research",
+    "answers": [
+      {
+        "choice": "Dean",
+        "pct": "34.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lee",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "state": "Tennessee"
+  },
+  {
     "id": "86829",
     "subgroup": "All polls",
-    "sampleSize": "1603",
+    "sampleSize": "1592",
     "population": "rv",
     "grade": "B-",
     "url": "https://www.politico.com/f/?id=00000165-cb2f-db94-ab7f-cfff8b740000",
@@ -14866,7 +15590,7 @@
     "answers": [
       {
         "choice": "Cordray",
-        "pct": "39.0",
+        "pct": "38.0",
         "party": "Dem"
       },
       {
@@ -15079,6 +15803,63 @@
     ],
     "type": "governor",
     "state": "Iowa"
+  },
+  {
+    "id": "86886",
+    "subgroup": "All polls",
+    "sampleSize": "574",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=e64b8af8-387b-4f2c-adae-f986be751d01",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-08",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Walz",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Johnson",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "state": "Minnesota"
+  },
+  {
+    "id": "86857",
+    "subgroup": "All polls",
+    "sampleSize": "519",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://dfw.cbslocal.com/2018/09/12/cruz-clings-to-small-lead-in-texas/",
+    "created_at": "2018-09-12",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-07",
+    "pollster": "Dixie Strategies",
+    "answers": [
+      {
+        "choice": "Valdez",
+        "pct": "33.91",
+        "party": "Dem"
+      },
+      {
+        "choice": "Abbott",
+        "pct": "52.79",
+        "party": "Rep"
+      },
+      {
+        "choice": "Tippetts",
+        "pct": "1.35",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "state": "Texas"
   },
   {
     "id": "86713",
@@ -16044,6 +16825,32 @@
     ],
     "type": "governor",
     "state": "Wisconsin"
+  },
+  {
+    "id": "86861",
+    "subgroup": "All polls",
+    "sampleSize": "389",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2018_summer_govapp82018.pdf",
+    "created_at": "2018-09-12",
+    "startDate": "2018-08-02",
+    "endDate": "2018-08-19",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "32.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "state": "New Hampshire"
   },
   {
     "id": "86118",
@@ -18306,6 +19113,37 @@
     "state": "Michigan"
   },
   {
+    "id": "86860",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.suffolk.edu/documents/SUPRC/5_2_2018_marginals.pdf",
+    "created_at": "2018-09-12",
+    "startDate": "2018-04-26",
+    "endDate": "2018-04-30",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "26.63",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "47.63",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jarvis",
+        "pct": "4.13",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "state": "New Hampshire"
+  },
+  {
     "id": "83136",
     "subgroup": "All polls",
     "sampleSize": "770",
@@ -18331,6 +19169,37 @@
     "type": "governor",
     "partisan": "DEM",
     "state": "Ohio"
+  },
+  {
+    "id": "86859",
+    "subgroup": "All polls",
+    "sampleSize": "379",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2018_spring_govapp42418.pdf",
+    "created_at": "2018-09-12",
+    "startDate": "2018-04-13",
+    "endDate": "2018-04-22",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "24.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "51.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jarvis",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "state": "New Hampshire"
   },
   {
     "id": "83127",
@@ -23927,29 +24796,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 77926,
-    "subgroup": "Adults",
-    "sampleSize": 1073,
-    "population": "a",
-    "grade": "",
-    "url": "https://icitizen.com/insights/trump-job-approval-april-17-18-2017/",
-    "created_at": "2017-04-20",
-    "startDate": "2017-04-17",
-    "endDate": "2017-04-18",
-    "pollster": "icitizen",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "34"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "65"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 77927,
     "subgroup": "Voters",
     "sampleSize": 1062,
@@ -24042,7 +24888,7 @@
     "type": "trump-approval"
   },
   {
-    "id": 77934,
+    "id": 77935,
     "subgroup": "Adults",
     "sampleSize": 15855,
     "population": "a",
@@ -47686,6 +48532,29 @@
     "type": "trump-approval"
   },
   {
+    "id": 80616,
+    "subgroup": "Adults",
+    "sampleSize": 1073,
+    "population": "a",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com.s3.amazonaws.com/polls/2018_icitizen_national.pdf",
+    "created_at": "2018-02-28",
+    "startDate": "2017-04-17",
+    "endDate": "2017-04-18",
+    "pollster": "icitizen",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "34"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "65"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
     "id": 80623,
     "subgroup": "All polls",
     "sampleSize": 1000,
@@ -52792,6 +53661,29 @@
     "type": "generic-ballot"
   },
   {
+    "id": 82668,
+    "subgroup": "Adults",
+    "sampleSize": 1250,
+    "population": "a",
+    "grade": "B",
+    "url": "https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/kwgrow0dna/econTabReport.pdf",
+    "created_at": "2018-05-09",
+    "startDate": "2018-05-06",
+    "endDate": "2018-05-08",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.5"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.5"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
     "id": 82669,
     "subgroup": "Voters",
     "sampleSize": 1232,
@@ -53339,29 +54231,6 @@
       {
         "choice": "Disapprove",
         "pct": "52"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
-    "id": 82749,
-    "subgroup": "Adults",
-    "sampleSize": 1250,
-    "population": "a",
-    "grade": "B",
-    "url": "https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/m8srb053i1/tabs_Trump_Tweets_20180506.pdf",
-    "created_at": "2018-05-14",
-    "startDate": "2018-05-06",
-    "endDate": "2018-05-08",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.5"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "48.5"
       }
     ],
     "type": "trump-approval"
@@ -58680,29 +59549,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 83420,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-07-06",
-    "startDate": "2018-07-03",
-    "endDate": "2018-07-05",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "47"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "52"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 83421,
     "subgroup": "All polls",
     "sampleSize": 1473,
@@ -58836,6 +59682,29 @@
       {
         "choice": "Disapprove",
         "pct": "50"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 83440,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-07-09",
+    "startDate": "2018-07-04",
+    "endDate": "2018-07-08",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "47"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
       }
     ],
     "type": "trump-approval"
@@ -59117,29 +59986,6 @@
     "type": "generic-ballot"
   },
   {
-    "id": 83480,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-07-11",
-    "startDate": "2018-07-08",
-    "endDate": "2018-07-10",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "47"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 83483,
     "subgroup": "All polls",
     "sampleSize": 1999,
@@ -59181,6 +60027,29 @@
       {
         "choice": "Disapprove",
         "pct": "56"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 83485,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-07-12",
+    "startDate": "2018-07-09",
+    "endDate": "2018-07-11",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
       }
     ],
     "type": "trump-approval"
@@ -59485,29 +60354,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 83509,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-07-16",
-    "startDate": "2018-07-11",
-    "endDate": "2018-07-15",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 83510,
     "subgroup": "Adults",
     "sampleSize": 1500,
@@ -59595,6 +60441,29 @@
       {
         "choice": "Disapprove",
         "pct": "49"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 83517,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-07-17",
+    "startDate": "2018-07-12",
+    "endDate": "2018-07-16",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53"
       }
     ],
     "type": "trump-approval"
@@ -59853,29 +60722,6 @@
     "type": "generic-ballot"
   },
   {
-    "id": 84474,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-07-19",
-    "startDate": "2018-07-16",
-    "endDate": "2018-07-18",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 84475,
     "subgroup": "Adults",
     "sampleSize": 10522,
@@ -59963,6 +60809,29 @@
       {
         "choice": "Disapprove",
         "pct": "53"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 84480,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-07-20",
+    "startDate": "2018-07-17",
+    "endDate": "2018-07-19",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55"
       }
     ],
     "type": "trump-approval"
@@ -60382,29 +61251,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 84514,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-07-24",
-    "startDate": "2018-07-19",
-    "endDate": "2018-07-23",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "46"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 84515,
     "subgroup": "Voters",
     "sampleSize": 1177,
@@ -60541,6 +61387,29 @@
       }
     ],
     "type": "generic-ballot"
+  },
+  {
+    "id": 84549,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-07-25",
+    "startDate": "2018-07-22",
+    "endDate": "2018-07-24",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
+      }
+    ],
+    "type": "trump-approval"
   },
   {
     "id": 84550,
@@ -61164,24 +62033,24 @@
     "type": "trump-approval"
   },
   {
-    "id": 84598,
+    "id": 84597,
     "subgroup": "Voters",
     "sampleSize": 1500,
     "population": "lv",
     "grade": "C+",
     "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
     "created_at": "2018-07-30",
-    "startDate": "2018-07-24",
-    "endDate": "2018-07-26",
+    "startDate": "2018-07-25",
+    "endDate": "2018-07-29",
     "pollster": "Rasmussen Reports/Pulse Opinion Research",
     "answers": [
       {
         "choice": "Approve",
-        "pct": "46"
+        "pct": "47"
       },
       {
         "choice": "Disapprove",
-        "pct": "52"
+        "pct": "51"
       }
     ],
     "type": "trump-approval"
@@ -61394,29 +62263,6 @@
     "type": "generic-ballot"
   },
   {
-    "id": 84636,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-01",
-    "startDate": "2018-07-29",
-    "endDate": "2018-07-31",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "48"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "50"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 84637,
     "subgroup": "Voters",
     "sampleSize": 1993,
@@ -61553,6 +62399,29 @@
       }
     ],
     "type": "generic-ballot"
+  },
+  {
+    "id": 84657,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-02",
+    "startDate": "2018-07-30",
+    "endDate": "2018-08-01",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "50"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "49"
+      }
+    ],
+    "type": "trump-approval"
   },
   {
     "id": 84659,
@@ -61785,29 +62654,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 85701,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-06",
-    "startDate": "2018-08-01",
-    "endDate": "2018-08-05",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "47"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 85702,
     "subgroup": "Adults",
     "sampleSize": 1000,
@@ -61872,6 +62718,29 @@
       {
         "choice": "Disapprove",
         "pct": "54"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 85879,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-07",
+    "startDate": "2018-08-02",
+    "endDate": "2018-08-06",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "47"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51"
       }
     ],
     "type": "trump-approval"
@@ -62360,29 +63229,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 85950,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-09",
-    "startDate": "2018-08-06",
-    "endDate": "2018-08-08",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "47"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 85964,
     "subgroup": "Voters",
     "sampleSize": 1016,
@@ -62585,6 +63431,29 @@
       {
         "choice": "Disapprove",
         "pct": "53"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 85977,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-10",
+    "startDate": "2018-08-07",
+    "endDate": "2018-08-09",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
       }
     ],
     "type": "trump-approval"
@@ -62797,29 +63666,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 86048,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-14",
-    "startDate": "2018-08-09",
-    "endDate": "2018-08-13",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "50"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "49"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 86049,
     "subgroup": "Adults",
     "sampleSize": 1002,
@@ -62887,6 +63733,29 @@
       }
     ],
     "type": "generic-ballot"
+  },
+  {
+    "id": 86053,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-15",
+    "startDate": "2018-08-12",
+    "endDate": "2018-08-14",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "49"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "49"
+      }
+    ],
+    "type": "trump-approval"
   },
   {
     "id": 86056,
@@ -63303,29 +64172,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 86096,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-17",
-    "startDate": "2018-08-14",
-    "endDate": "2018-08-16",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "48"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 86097,
     "subgroup": "Adults",
     "sampleSize": 1000,
@@ -63367,6 +64213,29 @@
       {
         "choice": "Disapprove",
         "pct": "54"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 86105,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-20",
+    "startDate": "2018-08-15",
+    "endDate": "2018-08-19",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
       }
     ],
     "type": "trump-approval"
@@ -63643,29 +64512,6 @@
       {
         "choice": "Disapprove",
         "pct": "59"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
-    "id": 86203,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-22",
-    "startDate": "2018-08-19",
-    "endDate": "2018-08-21",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "46"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "52"
       }
     ],
     "type": "trump-approval"
@@ -64062,6 +64908,29 @@
     "type": "generic-ballot"
   },
   {
+    "id": 86303,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-23",
+    "startDate": "2018-08-20",
+    "endDate": "2018-08-22",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
     "id": 86304,
     "subgroup": "Adults",
     "sampleSize": 15141,
@@ -64453,29 +65322,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 86412,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-27",
-    "startDate": "2018-08-22",
-    "endDate": "2018-08-26",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "46"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 86417,
     "subgroup": "Adults",
     "sampleSize": 1000,
@@ -64716,6 +65562,29 @@
     "startDate": "2018-08-27",
     "endDate": "2018-08-27",
     "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 86432,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-28",
+    "startDate": "2018-08-23",
+    "endDate": "2018-08-27",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
     "answers": [
       {
         "choice": "Approve",
@@ -65097,29 +65966,6 @@
     "type": "generic-ballot"
   },
   {
-    "id": 86498,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-08-30",
-    "startDate": "2018-08-27",
-    "endDate": "2018-08-29",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "48"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 86501,
     "subgroup": "Adults",
     "sampleSize": 14089,
@@ -65184,6 +66030,29 @@
       {
         "choice": "Disapprove",
         "pct": "60"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 86510,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-08-31",
+    "startDate": "2018-08-28",
+    "endDate": "2018-08-30",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50"
       }
     ],
     "type": "trump-approval"
@@ -65856,24 +66725,24 @@
     "type": "generic-ballot"
   },
   {
-    "id": 86612,
+    "id": 86611,
     "subgroup": "Voters",
     "sampleSize": 1500,
     "population": "lv",
     "grade": "C+",
     "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
     "created_at": "2018-09-05",
-    "startDate": "2018-08-30",
-    "endDate": "2018-09-03",
+    "startDate": "2018-09-02",
+    "endDate": "2018-09-04",
     "pollster": "Rasmussen Reports/Pulse Opinion Research",
     "answers": [
       {
         "choice": "Approve",
-        "pct": "45"
+        "pct": "44"
       },
       {
         "choice": "Disapprove",
-        "pct": "53"
+        "pct": "54"
       }
     ],
     "type": "trump-approval"
@@ -66201,29 +67070,6 @@
     "type": "trump-approval"
   },
   {
-    "id": 86664,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-09-07",
-    "startDate": "2018-09-04",
-    "endDate": "2018-09-06",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "48"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "52"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 86688,
     "subgroup": "Voters",
     "sampleSize": 1000,
@@ -66291,6 +67137,29 @@
       }
     ],
     "type": "generic-ballot"
+  },
+  {
+    "id": 86716,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-09-10",
+    "startDate": "2018-09-05",
+    "endDate": "2018-09-09",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51"
+      }
+    ],
+    "type": "trump-approval"
   },
   {
     "id": 86730,
@@ -66730,29 +67599,6 @@
     "type": "generic-ballot"
   },
   {
-    "id": 86839,
-    "subgroup": "Voters",
-    "sampleSize": 1500,
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2018-09-12",
-    "startDate": "2018-09-09",
-    "endDate": "2018-09-11",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53"
-      }
-    ],
-    "type": "trump-approval"
-  },
-  {
     "id": 86840,
     "subgroup": "Adults",
     "sampleSize": 1500,
@@ -66836,6 +67682,52 @@
       {
         "choice": "Dem",
         "pct": "46"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42"
+      }
+    ],
+    "type": "generic-ballot"
+  },
+  {
+    "id": 86885,
+    "subgroup": "Voters",
+    "sampleSize": 1500,
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-10",
+    "endDate": "2018-09-12",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52"
+      }
+    ],
+    "type": "trump-approval"
+  },
+  {
+    "id": 86893,
+    "subgroup": "All polls",
+    "sampleSize": 775,
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.cnn.com/2018/09/13/politics/cnn-poll-democrats-lead-likely-voters/index.html",
+    "created_at": "2018-09-13",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-09",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "52"
       },
       {
         "choice": "Rep",
